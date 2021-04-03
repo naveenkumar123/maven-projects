@@ -1,0 +1,8 @@
+[main] DEBUG com.learning.App  - addition 2
+[main] DEBUG com.learning.App  - substraction 3
+[com.learning.App.main()] DEBUG com.learning.App  - addition 2
+[com.learning.App.main()] DEBUG com.learning.App  - substraction 3
+[com.learning.App.main()] DEBUG com.learning.App  - addition 2
+[com.learning.App.main()] DEBUG com.learning.App  - substraction 3
+[com.learning.App.main()] DEBUG com.learning.App  - addition 2
+[com.learning.App.main()] DEBUG com.learning.App  - substraction 3
