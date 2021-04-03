@@ -11,6 +11,7 @@
 
   <name>mvndemo-calculator</name>
 
+	<!-- properties -->
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
